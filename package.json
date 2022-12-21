@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^4.20.4",
     "autoprefixer": "^10.4.13",
+    "axios": "^1.2.1",
     "postcss": "^8.4.20",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
